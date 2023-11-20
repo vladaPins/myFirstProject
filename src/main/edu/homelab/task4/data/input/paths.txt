@@ -1,0 +1,5 @@
+/Users/DK/Developer/JavaProjects/myFirstProject/src/main/edu/homelab/task4/filesForRead/Text1.txt
+/Users/DK/Developer/JavaProjects/myFirstProject/src/main/edu/homelab/task4/filesForRead/Text2.txt
+/Users/DK/Developer/JavaProjects/myFirstProject/src/main/edu/homelab/task4/filesForRead/Text3.txt
+/Users/DK/Developer/JavaProjects/myFirstProject/src/main/edu/homelab/task4/filesForRead/Text4.txt
+/Users/DK/Developer/JavaProjects/myFirstProject/src/main/edu/homelab/task4/filesForRead/Text5.txt
